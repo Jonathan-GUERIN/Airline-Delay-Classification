@@ -1,6 +1,3 @@
-# BACKGROUND
-
-The data contained in the compressed file has been extracted from the Marketing Carrier On-Time Performance (Beginning January 2018) data table of the "On-Time" database from the TranStats data library. The time period is indicated in the name of the compressed file; for example, XXX\_XXXXX\_2001\_1 contains data of the first month of the year 2001.
 
 # RECORD LAYOUT
 
