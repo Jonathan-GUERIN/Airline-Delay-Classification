@@ -1,0 +1,6 @@
+Finance dataset:
+	Regression: déterminer le prix à la minute suivante en fonction des dernières minutes
+	Classification: classification, situation de crise ou pas, type d'action
+		prix classé comme exceptionnel
+	Clusterisation: prendre 20 bougies et dire appartenance à quel marché, classes inconnues
+	Analyse statistique: 

@@ -1,0 +1,25 @@
+classification:
+	small or long range, if it will cancelled, delayed or not
+	small or high delay
+	prédire le compagnie qui opère
+	classes de retard +1, +5
+
+clustering:
+	size of the plane fo range travel (number of passenger)
+	depending on range and compagnie
+	
+Regression:
+	Determiner Arrival Delay à partir de Departure Delay
+	Determiner delay à partir du reste (comment?)
+	Distance entre les deux aéroport
+Echelle de temps: convertir en bin entier
+	TIMESTAMP
+	faire analyse fréquentielle, soit compter fourrier
+	déterminer fréquence de vol entre destination
+	analyse discrète dans un temps continu, processus ponctuel
+
+Temps de covid: analyse stats
+	un seul évènement
+	bcp de colonnes mais seulement qq lignes: 
+		shallow learning
+		

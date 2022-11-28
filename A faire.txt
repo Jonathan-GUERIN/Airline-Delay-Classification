@@ -1,0 +1,39 @@
+cours1:
+Standardisation
+Normalisation
+Reservoir sampling
+
+Detect rows that are not pertinent:
+Feature Subset Selection
+• Supervised feature selection
+• Unsupervised feature selection
+• Biased Sampling
+• Stratified Sampling
+Principal component analysis
+
+True positive and false positive
+ROC curves
+Accuracy, recall and precision
+Matthews correlation coefficient (MCC) and K statistics (p95 c1)
+Statistical significance validation (p99)
+
+
+cours2:
+Classifier: chose a class for an unlabelled instance
+Majority vote: output the majority class
+K-nearest neighbors (k-NN) + LSH (p11)
+Naive Bayes Classifier (p25)
+Decision trees (p31)
+	Bagging
+	Aggregate
+	out of bag error
+Random trees with random subset and random forests
+record accuracy on each tree
+permute column j in samples and test accuracy to test importance of variable j
+use n_jobs to make parallel
+gradient boosting
+	somme des erreurs
+	gradient step
+
+Regression with hyperplan, best separating hyperplane
+SVM

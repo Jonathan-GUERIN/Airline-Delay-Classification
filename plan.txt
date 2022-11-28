@@ -1,0 +1,66 @@
+classification:
+	Prédire si avion annulé
+	Prédire la compagnie qui opère
+	Prédire retard: classes de retard +1, +5; +-15
+	
+Decision Tree model
+	Basic Training
+	Feature Importance
+	Parameters tuning
+	RandomizedSearchCV
+Random Forest
+	Basic Training
+	Feature Importance
+	Parameters tuning
+	RandomizedSearchCV
+	ROC
+KNN
+	Basic Training
+	Parameters Tuning
+Naive Bayes
+	Basic Training
+	Parameters Tuning
+SVC
+	Basic Training
+	Parameters Tuning
+MLP
+	Basic Training
+	Parameters Tuning
+
+A rajouter:
+	le choix de subset de features
+		explication a la main
+		explication stat avec matrice de correlation
+	precision f1
+	l'utilisation de X_validation
+
+Mohammed:
+Features de retard + petite verif statistiques
+Basic Training
+	Feature Importance
+	Parameters tuning
+	RandomizedSearchCV
+	recall et accuracy
+	precision f1
+	ROC curves
+
+Amine:
+Decision Tree model
+	Basic Training
+	Feature Importance
+	Parameters tuning
+	RandomizedSearchCV
+	recall et accuracy
+	precision f1
+	ROC curves
+
+Jonathan:
+Changer les Nan en -1
+Création classes de retard +5
+Cleaning_balance_data
+KNN
+	Basic Training
+	Parameters Tuning
+MLP
+	Basic Training
+	Parameters Tuning

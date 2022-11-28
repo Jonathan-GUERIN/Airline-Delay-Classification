@@ -1,0 +1,20 @@
+['Date',
+ 'Airline', 'Origin', 'Destination', 'Cancelled', 'CRSDepTime', 'DepTime',
+ 'ArrTime', 'ArrDelay', 'AirTime', 'CRSElapsedTime', 'ActualElapsedTime', 
+'Distance', 'DayOfWeek', 'Operating_Airline', 'Tail_Number', 'FlightNumber',
+ 'OriginAirportID', 'OriginCityName', 'OriginStateName', 'DestAirportID', 
+'DestCityName', 'DestStateName', 'DepDel15', 'DepartureDelaGroups', 'DepTimeBlk', 'CRSArrTime', 'ArrDel15', 'ArrivalDelayGroups', 'ArrTimeBlk', 'DistanceGroup']
+
+I- Prédire si avion annulé:
+['Date',
+ 'Airline', 'Origin', 'Destination', 'CRSDepTime', 'CRSElapsedTime', 
+'Distance', 'DayOfWeek', 'Operating_Airline', 'Tail_Number', 'FlightNumber',
+ 'OriginAirportID', 'OriginCityName', 'OriginStateName', 'DestAirportID', 
+'DestCityName', 'DestStateName', 'DepTimeBlk', 'CRSArrTime', 'ArrTimeBlk', 'DistanceGroup']
+
+Target_key = 'Cancelled'
+Remove = 'DepTime'; 'ArrTime'; 'ArrDelay'; 'AirTime'; 'ActualElapsedTime'; 'DepDel15'; 'DepartureDelaGroups'; 'ArrDel15'; 'ArrivalDelayGroups'
+
+
+
+II- Retard
